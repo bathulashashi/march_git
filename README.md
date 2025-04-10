@@ -1,3 +1,2 @@
-# march_git
-This is tutorial for my first project
-shashi chandra
+#this is my first project on html,css
+
